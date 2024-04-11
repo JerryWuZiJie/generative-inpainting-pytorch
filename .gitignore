@@ -1,4 +1,6 @@
 ### Project ###
+# torch model
+torch_model.p
 checkpoints/
 
 
@@ -107,3 +109,6 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# output images
+output_images/
