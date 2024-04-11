@@ -1,4 +1,13 @@
 # generative-inpainting-pytorch
+
+## setup:
+
+Create checkpoints/ and output_images/ folder under the root directory.
+
+Download model from [here](https://drive.google.com/drive/folders/1qbfA5BP9yzdTFFmiOTvYARUYgW1zwBBK) and put the entire imagenet/ folder to checkpoints/ folder.
+
+## ===============original readme===============
+
 A PyTorch reimplementation for the paper [Generative Image Inpainting with Contextual Attention](https://arxiv.org/abs/1801.07892) according to the author's [TensorFlow implementation](https://github.com/JiahuiYu/generative_inpainting).
 
 ## Prerequisites

@@ -3,6 +3,9 @@
 torch_model.p
 checkpoints/
 
+# output images
+output_images/
+
 
 ### Python ###
 # Byte-compiled / optimized / DLL files
@@ -109,6 +112,3 @@ venv.bak/
 
 # mypy
 .mypy_cache/
-
-# output images
-output_images/
